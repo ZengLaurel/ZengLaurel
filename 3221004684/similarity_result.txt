@@ -1,5 +1,0 @@
-文本orig和文本orig_add的相似度：0.7684
-文本orig和文本orig_del的相似度：0.8474
-文本orig和文本orig_dis1的相似度：0.8623
-文本orig和文本orig_dis10的相似度：0.8354
-文本orig和文本orig_dis15的相似度：0.8063
